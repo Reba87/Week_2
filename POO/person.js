@@ -2,8 +2,9 @@
 
 class Person
 {
-    constructor(peso,altura,genero)
-    {
+    constructor(peso,altura,genero,nombre)
+    {   
+        this.nombre = nombre;
         this.peso = peso;
         this.altura = altura;
         this.genero = genero;

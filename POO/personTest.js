@@ -1,7 +1,7 @@
 let people = require (`./person`)
 
 
-let persona1 = new people(65,1.70,"Mujer")
+let persona1 = new people(65,1.70,"Mujer","Fiorella")
 persona1.colorPelo = "Rubio";
 persona1.colorOjos = "Azul";
 persona1.colorPiel = "Blanco";
