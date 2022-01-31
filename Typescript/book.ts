@@ -6,6 +6,8 @@ export class Book
     private isbn: string;
     private author: string;
     private editorial: string;
+   
+   
 
     // Declarando Constructor
 
